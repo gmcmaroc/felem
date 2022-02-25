@@ -1,4 +1,17 @@
 {
+    "statistics": [{
+            "name": "visiteur",
+            "number": 546
+        },
+        {
+            "name": "annonceur",
+            "number": 658
+        },
+        {
+            "name": "utilisateur",
+            "number": 43
+        }
+    ],
     "categories": [{
             "id": 1,
             "title": "Exportation & transformation",
