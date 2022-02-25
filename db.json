@@ -40,5 +40,12 @@
             "colorDark": "#11998e",
             "colorLight": "#38ef7d"
         }
-    ]
+    ],
+    "articles": [{
+        "title": "Filière fruits et légumes"
+    }, {
+        "title": "Génération Green 2020-2030"
+    }, {
+        "title": "Maroc en chiffre 2020"
+    }]
 }
