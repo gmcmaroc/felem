@@ -9,21 +9,21 @@
         {
             "id": 2,
             "title": "Agrofourniture",
-            "fontAwsome": "fa-arrows-rotate",
+            "fontAwsome": "dotchart",
             "colorDark": "#f39c12",
             "colorLight": "#f1c40f"
         },
         {
             "id": 3,
             "title": "Services",
-            "fontAwsome": "fa-arrows-rotate",
+            "fontAwsome": "customerservice",
             "colorDark": "#d5135a",
             "colorLight": "#f05924"
         },
         {
             "id": 4,
             "title": "Vie de la filière",
-            "fontAwsome": "fa-arrows-rotate",
+            "fontAwsome": "slack",
             "colorDark": "#11998e",
             "colorLight": "#38ef7d"
         }
