@@ -1,19 +1,31 @@
 {
     "categories": [{
             "id": 1,
-            "title": "Exportation & transformation"
+            "title": "Exportation & transformation",
+            "fontAwsome": "fa-arrows-rotate",
+            "colorDark": "#497ce2",
+            "colorLight": "#37bdde"
         },
         {
             "id": 2,
-            "title": "Agrofourniture"
+            "title": "Agrofourniture",
+            "fontAwsome": "fa-arrows-rotate",
+            "colorDark": "#f39c12",
+            "colorLight": "#f1c40f"
         },
         {
             "id": 3,
-            "title": "Services"
+            "title": "Services",
+            "fontAwsome": "fa-arrows-rotate",
+            "colorDark": "#d5135a",
+            "colorLight": "#f05924"
         },
         {
             "id": 4,
-            "title": "Vie de la filière"
+            "title": "Vie de la filière",
+            "fontAwsome": "fa-arrows-rotate",
+            "colorDark": "#11998e",
+            "colorLight": "#38ef7d"
         }
     ]
 }
