@@ -42,10 +42,13 @@
         }
     ],
     "articles": [{
-        "title": "Filière fruits et légumes"
+        "title": "Filière fruits et légumes",
+        "image": "http://felem.ma/wp-content/uploads/2019/05/Maroc-en-chiffre.jpg"
     }, {
-        "title": "Génération Green 2020-2030"
+        "title": "Génération Green 2020-2030",
+        "image": "http://felem.ma/wp-content/uploads/2019/05/Maroc-en-chiffre.jpg"
     }, {
-        "title": "Maroc en chiffre 2020"
+        "title": "Maroc en chiffre 2020",
+        "image": "http://felem.ma/wp-content/uploads/2019/05/Maroc-en-chiffre.jpg"
     }]
 }
