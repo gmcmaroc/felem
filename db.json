@@ -2,7 +2,7 @@
     "categories": [{
             "id": 1,
             "title": "Exportation & transformation",
-            "fontAwsome": "fa-arrows-rotate",
+            "fontAwsome": "linechart",
             "colorDark": "#497ce2",
             "colorLight": "#37bdde"
         },
